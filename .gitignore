@@ -105,3 +105,6 @@ dist
 moveit/yarn.lock
 moveit/package.json
 moveit/tsconfig.json
+moveit-next/tsconfig.json
+moveit-next/yarn.lock
+moveit-next/package.json
