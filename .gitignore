@@ -108,3 +108,4 @@ moveit/tsconfig.json
 moveit-next/tsconfig.json
 moveit-next/yarn.lock
 moveit-next/package.json
+moveit-next/challenges.json
