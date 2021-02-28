@@ -5,9 +5,10 @@
 <img alt="Happy" src="https://github.com/rocketseat-education/nlw-04-reactjs/blob/main/.github/logo.png">
 <h1>
 
- <h1 align="center">
-<img alt="Happy" src="https://github.com/queilacr/Move-it/blob/master/Move.it.gif>
-<h1>
+
+![Move it](https://github.com/queilacr/Move-it/blob/master/Move.it.gif)
+
+
 
 ## ✨ Tecnologias
 
