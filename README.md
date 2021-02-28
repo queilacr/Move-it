@@ -2,11 +2,11 @@
  🚀Material produzido na Next Level Week #4
  
  <h1 align="center">
-![Move it](https://github.com/rocketseat-education/nlw-04-reactjs/blob/main/.github/logo.png)
+<img alt="Happy" src="https://github.com/rocketseat-education/nlw-04-reactjs/blob/main/.github/logo.png">
 <h1>
 
  <h1 align="center">
-![Move-it](https://github.com/queilacr/Move-it/blob/master/Move.it.gif)
+<img alt="Happy" src="https://github.com/queilacr/Move-it/blob/master/Move.it.gif>
 <h1>
 
 ## ✨ Tecnologias
@@ -25,7 +25,7 @@ O Move it une a técnica de Pomodoro com a realização de exercícios para ajud
 ## 🚀 Como executar
 
 > - Clone o repositório 
-    -[Projeto Original] (https://github.com/rocketseat-education/nlw-04-reactjs)
+[Projeto Original](https://github.com/rocketseat-education/nlw-04-reactjs)
 > - Instale as dependências com `yarn`
 > - Inicie o servidor com `yarn dev`
 
